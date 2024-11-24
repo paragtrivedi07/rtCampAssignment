@@ -20,7 +20,7 @@ Test Output Folder:
 Contains logs, HTML result reports, and JUnit reports.
 
 **Video of Automation Execution:**
-Located in the Zip File. Extract the file and view the headed automation video.
+Located in the drive and drive Link : https://drive.google.com/file/d/1T7AFG0rbr6fnz2WUOjghM4t3GPIZPa9G/view?usp=drive_link
 
 **Usage**
 Clone this repository to your local system.
