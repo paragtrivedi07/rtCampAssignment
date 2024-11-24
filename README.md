@@ -7,6 +7,10 @@ Selenium Chrome Driver
 TestNG
 ReportNG
 
+**Supported Browsers**
+Chrome (Version: 131.0.6778.86)
+Chromium (Version: 131.0.6778.86)
+
 **Source Files**
 Main Source Code:
 RtCampAssignment.java (contains the test implementation)
